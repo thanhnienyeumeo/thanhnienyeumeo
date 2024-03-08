@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **nguyentronghoangmc@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn
+- 📫 How to reach me **nguyentronghoangmc@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn**
 
 
 <h3 align="left">Connect with me:</h3>
