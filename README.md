@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhnienyeumeo" alt="thanhnienyeumeo" /></a> </p>
 
-- 🔭 I’m currently studying on **Post and Telecommunications Institute of Technology**
+- 🔭 I’m currently studying on **Post and Telecommunications Institute of Technology** and working as an AI Engineer at **Vinbigdata**
 
 - 🌱 I’m currently learning **Machine Learning**
 
