@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhnienyeumeo" alt="thanhnienyeumeo" /></a> </p>
 
-- 🔭 I’m currently studying on **Post and Telecommunications Institute of Technology** and working as an AI Engineer at **Vinbigdata**
+- 🔭 I’m currently working as an NLP collaborator at **Vinbigdata, Hanoi**, studied at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working at **Deep Learning**, focus on RL, Natural Language Processing, LLM, VLM and VLA
 
 - 📫 How to reach me **nguyentronghoangmc@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn**
 
