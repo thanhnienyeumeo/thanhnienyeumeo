@@ -1,7 +1,7 @@
 ### ^^ WELCOME TO MY GITHUB ^^
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <h1 align="center">Hi 👋, I'm Nguyen Trong Hoang</h1>
-<h3 align="center">A developer from VietNam</h3>
+<h3 align="center">An AI Engineer Fresher from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhnienyeumeo&label=Profile%20views&color=0e75b6&style=flat" alt="thanhnienyeumeo" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as an NLP collaborator at **Vinbigdata, Hanoi**, studied at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
 
-- 🌱 I’m currently working at **Deep Learning**, focus on RL, Natural Language Processing, LLM, VLM and VLA
+- 🌱 I’m currently working at **Deep Learning**, focus on Reinforcement Learning(RL), Natural Language Processing (NLP), Large Language Models(LLMs), Vision Language Models(VLMs) and Vision Language Action(VLA)
 
 - 📫 How to reach me **nguyentronghoangmc@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn**
 
