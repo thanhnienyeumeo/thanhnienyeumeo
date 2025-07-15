@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as an NLP collaborator at **Vinbigdata, Hanoi**, studied at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
 
-- 🌱 I’m currently working at **Deep Learning**, focus on Reinforcement Learning(RL), Natural Language Processing (NLP), Large Language Models(LLMs), Vision Language Models(VLMs) and Vision Language Action(VLA)
+- 🌱 I’m currently working at **Deep Learning**, focus on Reinforcement Learning(RL), Natural Language Processing (NLP) and Large Language Models(LLMs).
 
 - 📫 How to reach me **nguyentronghoangmc@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn**
 
