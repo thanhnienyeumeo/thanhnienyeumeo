@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as an AI specialist at **VinSOC, Hanoi**, studied at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
 
-- 🌱 I’m currently working at **Deep Learning**, focus on Reinforcement Learning(RL), Natural Language Processing (NLP) and Large Language Models(LLMs).
+- 🌱 I’m currently working at **Deep Learning**, focus on Reinforcement Learning(RL), Natural Language Processing (NLP) and Large Language Models(LLMs). My current domain now is applying Large Language Models in Cyber Security
 
 - 📫 How to reach me **work.nthoang@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn**
 
@@ -19,6 +19,7 @@
 <a href="https://www.facebook.com/profile.php?id=100013472084619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Colder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ignr_h31" height="30" width="40" /></a>
 <a href="https://www.instagram.com/colder203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://codeforces.com/profile/ignr_h31" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-tr%E1%BB%8Dng-357b422ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="https://codeforces.com/profile/ignr_h31" height="30" width="40" /></a>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
