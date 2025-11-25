@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhnienyeumeo" alt="thanhnienyeumeo" /></a> </p>
 
-- 🔭 I’m currently working as an AI specialist at **VinSOC, Hanoi**, studied at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
+- 🔭 I’m currently working as an AI specialist at **VinSOC - a member of Vingroup company, Hanoi**, studied at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
 
 - 🌱 I’m currently working at **Deep Learning**, focus on Reinforcement Learning(RL), Natural Language Processing (NLP) and Large Language Models(LLMs). My current domain now is applying Large Language Models in Cyber Security
 
-- 📫 How to reach me **work.nthoang@gmail.com** or **hoangnt.b20cn279@stu.ptit.edu.vn**
-
+- 📫 How to reach me **work.nthoang@gmail.com** or
+**nguyentronghoangmc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
