@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhnienyeumeo" alt="thanhnienyeumeo" /></a> </p>
 
-- 🔭 I’m currently working as an AI Engineer in **a member of Vingroup company, Hanoi**, i also graduated at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
+- 🔭 I’m currently working as an AI Engineer in **Vietnam**, i also graduated at **Posts and Telecommunications Institute of Technology (PTIT), Hanoi**
 
 - 🌱 I has worked at **Deep Learning** from mid of 2024, focus on Reinforcement Learning(RL), Natural Language Processing (NLP), Speech and Language Processing, and Large Language Models(LLMs). My current domain now is applying Large Language Models, Speech Model in Robotics.
 
